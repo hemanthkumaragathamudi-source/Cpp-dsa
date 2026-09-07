@@ -12,7 +12,7 @@ Data Structures and Algorithms using C++.
 
 ## Learning Progress
 
-- [ ] Arrays
+- [x] Arrays
 - [ ] Strings
 - [ ] Searching
 - [ ] Sorting
@@ -24,9 +24,20 @@ Data Structures and Algorithms using C++.
 - [ ] Graphs
 - [ ] Dynamic Programming
 
+## Recent Learning
+
+### Arrays
+- Practiced array traversal.
+- Implemented the Two Sum problem.
+- Learned how to use nested loops.
+
+
+
 ## Goal
 
 To build a strong foundation in Data Structures and Algorithms
 through consistent practice and problem solving.
 
 I will continuously update this repository as I learn new concepts.
+
+
